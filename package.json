@@ -1,0 +1,24 @@
+{
+  "name": "stop-me-master",
+  "version": "0.0.1",
+  "description": "Simple, actively directed, despotic process watchdog.",
+  "main": "index.js",
+  "repository": "https://github.com/ThisSentenceIsFalse/stop-me-master.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monitor",
+    "watcher",
+    "productivity",
+    "development",
+    "server"
+  ],
+  "author": "Popescu Mihai",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "rollup": "^2.28.2"
+  }
+}
