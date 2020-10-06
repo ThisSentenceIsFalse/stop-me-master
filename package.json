@@ -12,7 +12,8 @@
     "development",
     "server"
   ],
-  "main": "index.js",
+  "type": "module",
+  "main": "lib/esm/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

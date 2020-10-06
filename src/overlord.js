@@ -1,4 +1,4 @@
-import {ProcMaster} from './proc-master.mjs';
+import {ProcMaster} from './proc-master.js';
 
 // TODO: maybe ok to use a validator here to be fair
 function validate(procCfg) {
